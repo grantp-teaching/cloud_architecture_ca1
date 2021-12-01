@@ -1,12 +1,12 @@
-# Cloud Foundations CA1
+# Cloud Architecture CA1
 
-**Weight:** 30/100
+**Weight:** 20/100
 
 **Due:** as displayed on Moodle
 
 ## Introduction
 
-This CA will showcase your skills developed in the Cloud Foundations module to date.
+This CA will showcase your skills developed in the Cloud Architecture module to date.
 
 ## Requirements
 
@@ -45,7 +45,7 @@ Your script must be called `system_teardown.ps1`.
 
 ## Submission
 
-Place all files required above plus any additional needed for your solution in a ZIP folder named exactly `cloud_foundations_ca1.zip`.
+Place all files required above plus any additional needed for your solution in a ZIP folder named exactly `cloud_ca1.zip`.
 Use `ca1_checks.ps1` to confirm your ZIP file meets requirements.
 
 ## Feedback

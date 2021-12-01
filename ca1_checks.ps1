@@ -1,8 +1,8 @@
-# Cloud Foundations CA1 checks files
+# Cloud CA1 checks files
 # Peadar Grant
 
 # Zip file name
-$zipFileName = '.\cloud_foundations_ca1.zip'
+$zipFileName = '.\cloud_ca1.zip'
 
 # check for ZIp file itself
 Write-Host "checking for $zipFileName ... " -NoNewLine
