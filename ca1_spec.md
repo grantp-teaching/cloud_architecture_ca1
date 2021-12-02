@@ -14,6 +14,8 @@ You are to design a simple cloud-based system consisting of PaaS and IaaS compon
 Your system must contain 1 EC2 instance AND at least 1 PaaS service (SQS, S3, others). 
 Setup, demonstration and teardown are to be done in a scripted fashion only.
 
+If you are using your own AWS account there is no problem.
+
 ### Design (20%)
 
 You are to present your design in a file `system_design.pdf`.
